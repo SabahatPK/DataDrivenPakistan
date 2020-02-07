@@ -1,5 +1,7 @@
 //start here : practice map-making!! Watch Kurran videos and others.
 
+//Adding some random text. Delete after deploying to Github.
+
 let promises = [
   d3.csv("data/AgentAccountData.csv"),
   d3.csv("data/GenderByProvince.csv"),

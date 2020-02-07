@@ -18,6 +18,8 @@ MapChart = function(
 //OUTS - click on province to isolate that data in area charts
 //OUTS - allow map to size down with containers.
 
+//Adding some random text. Delete after deploying to Github.
+
 MapChart.prototype.initVis = function() {
   let vis = this;
 
