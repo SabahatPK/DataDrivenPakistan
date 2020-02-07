@@ -1,0 +1,1333 @@
+Date,Province,District,Active Borrowers
+6/30/2011,Default,Default,0
+6/30/2011,Baluchistan,Awaran,0
+6/30/2011,Baluchistan,Barkhan,0
+6/30/2011,Baluchistan,Bolan,0
+6/30/2011,Baluchistan,Chagai,0
+6/30/2011,Baluchistan,Dera Bugti,0
+6/30/2011,Baluchistan,Gwadar,365
+6/30/2011,Baluchistan,Jafarabad,0
+6/30/2011,Baluchistan,Jhal Magsi,0
+6/30/2011,Baluchistan,Kalat,0
+6/30/2011,Baluchistan,Kech (Turbat),0
+6/30/2011,Baluchistan,Kharan,0
+6/30/2011,Baluchistan,Khuzdar,0
+6/30/2011,Baluchistan,Kohlu,0
+6/30/2011,Baluchistan,Lasbela,1083
+6/30/2011,Baluchistan,Loralai,0
+6/30/2011,Baluchistan,Mastung,0
+6/30/2011,Baluchistan,Musakhel,0
+6/30/2011,Baluchistan,Nasirabad,4236
+6/30/2011,Baluchistan,Nushki,0
+6/30/2011,Baluchistan,Panjgur,0
+6/30/2011,Baluchistan,Pishin,0
+6/30/2011,Baluchistan,Qila Abdullah,0
+6/30/2011,Baluchistan,Qila Saifullah,0
+6/30/2011,Baluchistan,Quetta,0
+6/30/2011,Baluchistan,Sherani,0
+6/30/2011,Baluchistan,Sibi,1145
+6/30/2011,Baluchistan,Washuk,0
+6/30/2011,Baluchistan,Zhob,0
+6/30/2011,Baluchistan,Ziarat,0
+6/30/2011,Baluchistan,Total,11924
+6/30/2011,KPK,Abbottabad,16222
+6/30/2011,KPK,Bannu,4498
+6/30/2011,KPK,Batgram,442
+6/30/2011,KPK,Buner (Daggar),1002
+6/30/2011,KPK,Charsadda,5029
+6/30/2011,KPK,Chitral,8019
+6/30/2011,KPK,D.I. Khan,14508
+6/30/2011,KPK,Hangu,0
+6/30/2011,KPK,Haripur,24326
+6/30/2011,KPK,Karak,1857
+6/30/2011,KPK,Kohat,5446
+6/30/2011,KPK,Kohistan,60
+6/30/2011,KPK,Lakki Marwat,671
+6/30/2011,KPK,Lower Dir,4
+6/30/2011,KPK,Malakand,3759
+6/30/2011,KPK,Mansehra,13109
+6/30/2011,KPK,Mardan,14792
+6/30/2011,KPK,Mingora,3853
+6/30/2011,KPK,Nowshera,15604
+6/30/2011,KPK,Peshawar,13842
+6/30/2011,KPK,Shangla,143
+6/30/2011,KPK,Swabi,8367
+6/30/2011,KPK,Swat,3214
+6/30/2011,KPK,Tank,2057
+6/30/2011,KPK,Upper Dir,0
+6/30/2011,KPK,Total,160824
+6/30/2011,Punjab,Attock,104560
+6/30/2011,Punjab,Bahawalpur,222355
+6/30/2011,Punjab,Bhakkar,113225
+6/30/2011,Punjab,Bhawalnagar,220115
+6/30/2011,Punjab,Chakwal,93306
+6/30/2011,Punjab,Chiniot,54272
+6/30/2011,Punjab,D.G. Khan,83209
+6/30/2011,Punjab,Faisalabad,307731
+6/30/2011,Punjab,Gujranwala,240531
+6/30/2011,Punjab,Gujrat,91318
+6/30/2011,Punjab,Hafizabad,69037
+6/30/2011,Punjab,Jhang,137337
+6/30/2011,Punjab,Jhelum,85987
+6/30/2011,Punjab,Kasur,154073
+6/30/2011,Punjab,Khanewal,109170
+6/30/2011,Punjab,Khushab,81055
+6/30/2011,Punjab,Lahore,311613
+6/30/2011,Punjab,Leyyah,166883
+6/30/2011,Punjab,Lodhran,119762
+6/30/2011,Punjab,Mandi Bahauddin,77975
+6/30/2011,Punjab,Mianwali,67835
+6/30/2011,Punjab,Multan,199009
+6/30/2011,Punjab,Muzaffargarh,182640
+6/30/2011,Punjab,Nankana Sahib,39538
+6/30/2011,Punjab,Narowal,100285
+6/30/2011,Punjab,Okara,154604
+6/30/2011,Punjab,Pakpattan,77257
+6/30/2011,Punjab,Rahimyar Khan,269111
+6/30/2011,Punjab,Rajanpur,110137
+6/30/2011,Punjab,Rawalpindi,162259
+6/30/2011,Punjab,Sahiwal,128108
+6/30/2011,Punjab,Sargodha,204449
+6/30/2011,Punjab,Sheikhupura,153269
+6/30/2011,Punjab,Sialkot,176730
+6/30/2011,Punjab,Toba Tek Singh,117821
+6/30/2011,Punjab,Vihari,135555
+6/30/2011,Punjab,Total,5165544
+6/30/2011,Sindh,Badin,57344
+6/30/2011,Sindh,Dadu,71123
+6/30/2011,Sindh,Ghotki,49462
+6/30/2011,Sindh,Hyderabad,86509
+6/30/2011,Sindh,Jacobabad,11277
+6/30/2011,Sindh,Jamshoro,32248
+6/30/2011,Sindh,Karachi,399689
+6/30/2011,Sindh,Kashmore,18113
+6/30/2011,Sindh,Khairpur,72588
+6/30/2011,Sindh,Larkana,64714
+6/30/2011,Sindh,Matyari,46227
+6/30/2011,Sindh,Mirpur Khas,78262
+6/30/2011,Sindh,Naushahro Feroze,68832
+6/30/2011,Sindh,Nawabshah,40839
+6/30/2011,Sindh,Sanghar,98048
+6/30/2011,Sindh,Sehwan Sharif,0
+6/30/2011,Sindh,Shaheed Benazirabad,21052
+6/30/2011,Sindh,Shehdad Kot,39183
+6/30/2011,Sindh,Shikarpur,27525
+6/30/2011,Sindh,Sujawal,6349
+6/30/2011,Sindh,Sukkur,80810
+6/30/2011,Sindh,Tando Allahyar,35769
+6/30/2011,Sindh,Tando Jam,1910
+6/30/2011,Sindh,Tando Muhammad Khan,69139
+6/30/2011,Sindh,Tharparkar,51489
+6/30/2011,Sindh,Thatta,37367
+6/30/2011,Sindh,Umer Kot,72971
+6/30/2011,Sindh,Total,1572545
+6/30/2011,AJK,Bagh,13189
+6/30/2011,AJK,Bhimber,8126
+6/30/2011,AJK,Kotli,21359
+6/30/2011,AJK,Mirpur,8534
+6/30/2011,AJK,Muzaffarabad,28530
+6/30/2011,AJK,Neelum,1457
+6/30/2011,AJK,Poonch,15664
+6/30/2011,AJK,Sudhnati,7236
+6/30/2011,AJK,Total,104095
+6/30/2011,GB,Astore,2080
+6/30/2011,GB,Diamer,689
+6/30/2011,GB,Ghanche,3159
+6/30/2011,GB,Ghizer,13975
+6/30/2011,GB,Gilgit,26030
+6/30/2011,GB,Skardu,7176
+6/30/2011,GB,Total,53109
+6/30/2011,FATA,Bajaur Agency,8576
+6/30/2011,FATA,Khyber Agency,7114
+6/30/2011,FATA,Kurram Agency,3909
+6/30/2011,FATA,Mohmand Agency,2511
+6/30/2011,FATA,North Waziristan Agency,51
+6/30/2011,FATA,Orakzai Agency,2078
+6/30/2011,FATA,South Waziristan Agency,0
+6/30/2011,FATA,Total,24239
+6/30/2011,ICT,ICT,27214
+6/30/2011,ICT,Total,27214
+6/30/2012,Default,Default,0
+6/30/2012,Baluchistan,Awaran,100
+6/30/2012,Baluchistan,Barkhan,100
+6/30/2012,Baluchistan,Bolan,100
+6/30/2012,Baluchistan,Chagai,100
+6/30/2012,Baluchistan,Dera Bugti,100
+6/30/2012,Baluchistan,Gwadar,465
+6/30/2012,Baluchistan,Jafarabad,100
+6/30/2012,Baluchistan,Jhal Magsi,100
+6/30/2012,Baluchistan,Kalat,100
+6/30/2012,Baluchistan,Kech (Turbat),100
+6/30/2012,Baluchistan,Kharan,100
+6/30/2012,Baluchistan,Khuzdar,100
+6/30/2012,Baluchistan,Kohlu,100
+6/30/2012,Baluchistan,Lasbela,1183
+6/30/2012,Baluchistan,Loralai,100
+6/30/2012,Baluchistan,Mastung,100
+6/30/2012,Baluchistan,Musakhel,100
+6/30/2012,Baluchistan,Nasirabad,4336
+6/30/2012,Baluchistan,Nushki,100
+6/30/2012,Baluchistan,Panjgur,100
+6/30/2012,Baluchistan,Pishin,100
+6/30/2012,Baluchistan,Qila Abdullah,100
+6/30/2012,Baluchistan,Qila Saifullah,100
+6/30/2012,Baluchistan,Quetta,100
+6/30/2012,Baluchistan,Sherani,100
+6/30/2012,Baluchistan,Sibi,1245
+6/30/2012,Baluchistan,Washuk,100
+6/30/2012,Baluchistan,Zhob,100
+6/30/2012,Baluchistan,Ziarat,100
+6/30/2012,Baluchistan,Total,12024
+6/30/2012,KPK,Abbottabad,16322
+6/30/2012,KPK,Bannu,4598
+6/30/2012,KPK,Batgram,542
+6/30/2012,KPK,Buner (Daggar),1102
+6/30/2012,KPK,Charsadda,5129
+6/30/2012,KPK,Chitral,8119
+6/30/2012,KPK,D.I. Khan,14608
+6/30/2012,KPK,Hangu,100
+6/30/2012,KPK,Haripur,24426
+6/30/2012,KPK,Karak,1957
+6/30/2012,KPK,Kohat,5546
+6/30/2012,KPK,Kohistan,160
+6/30/2012,KPK,Lakki Marwat,771
+6/30/2012,KPK,Lower Dir,104
+6/30/2012,KPK,Malakand,3859
+6/30/2012,KPK,Mansehra,13209
+6/30/2012,KPK,Mardan,14892
+6/30/2012,KPK,Mingora,3953
+6/30/2012,KPK,Nowshera,15704
+6/30/2012,KPK,Peshawar,13942
+6/30/2012,KPK,Shangla,243
+6/30/2012,KPK,Swabi,8467
+6/30/2012,KPK,Swat,3314
+6/30/2012,KPK,Tank,2157
+6/30/2012,KPK,Upper Dir,100
+6/30/2012,KPK,Total,160924
+6/30/2012,Punjab,Attock,104660
+6/30/2012,Punjab,Bahawalpur,222455
+6/30/2012,Punjab,Bhakkar,113325
+6/30/2012,Punjab,Bhawalnagar,220215
+6/30/2012,Punjab,Chakwal,93406
+6/30/2012,Punjab,Chiniot,54372
+6/30/2012,Punjab,D.G. Khan,83309
+6/30/2012,Punjab,Faisalabad,307831
+6/30/2012,Punjab,Gujranwala,240631
+6/30/2012,Punjab,Gujrat,91418
+6/30/2012,Punjab,Hafizabad,69137
+6/30/2012,Punjab,Jhang,137437
+6/30/2012,Punjab,Jhelum,86087
+6/30/2012,Punjab,Kasur,154173
+6/30/2012,Punjab,Khanewal,109270
+6/30/2012,Punjab,Khushab,81155
+6/30/2012,Punjab,Lahore,311713
+6/30/2012,Punjab,Leyyah,166983
+6/30/2012,Punjab,Lodhran,119862
+6/30/2012,Punjab,Mandi Bahauddin,78075
+6/30/2012,Punjab,Mianwali,67935
+6/30/2012,Punjab,Multan,199109
+6/30/2012,Punjab,Muzaffargarh,182740
+6/30/2012,Punjab,Nankana Sahib,39638
+6/30/2012,Punjab,Narowal,100385
+6/30/2012,Punjab,Okara,154704
+6/30/2012,Punjab,Pakpattan,77357
+6/30/2012,Punjab,Rahimyar Khan,269211
+6/30/2012,Punjab,Rajanpur,110237
+6/30/2012,Punjab,Rawalpindi,162359
+6/30/2012,Punjab,Sahiwal,128208
+6/30/2012,Punjab,Sargodha,204549
+6/30/2012,Punjab,Sheikhupura,153369
+6/30/2012,Punjab,Sialkot,176830
+6/30/2012,Punjab,Toba Tek Singh,117921
+6/30/2012,Punjab,Vihari,135655
+6/30/2012,Punjab,Total,5165644
+6/30/2012,Sindh,Badin,57444
+6/30/2012,Sindh,Dadu,71223
+6/30/2012,Sindh,Ghotki,49562
+6/30/2012,Sindh,Hyderabad,86609
+6/30/2012,Sindh,Jacobabad,11377
+6/30/2012,Sindh,Jamshoro,32348
+6/30/2012,Sindh,Karachi,399789
+6/30/2012,Sindh,Kashmore,18213
+6/30/2012,Sindh,Khairpur,72688
+6/30/2012,Sindh,Larkana,64814
+6/30/2012,Sindh,Matyari,46327
+6/30/2012,Sindh,Mirpur Khas,78362
+6/30/2012,Sindh,Naushahro Feroze,68932
+6/30/2012,Sindh,Nawabshah,40939
+6/30/2012,Sindh,Sanghar,98148
+6/30/2012,Sindh,Sehwan Sharif,100
+6/30/2012,Sindh,Shaheed Benazirabad,21152
+6/30/2012,Sindh,Shehdad Kot,39283
+6/30/2012,Sindh,Shikarpur,27625
+6/30/2012,Sindh,Sujawal,6449
+6/30/2012,Sindh,Sukkur,80910
+6/30/2012,Sindh,Tando Allahyar,35869
+6/30/2012,Sindh,Tando Jam,2010
+6/30/2012,Sindh,Tando Muhammad Khan,69239
+6/30/2012,Sindh,Tharparkar,51589
+6/30/2012,Sindh,Thatta,37467
+6/30/2012,Sindh,Umer Kot,73071
+6/30/2012,Sindh,Total,1572645
+6/30/2012,AJK,Bagh,13289
+6/30/2012,AJK,Bhimber,8226
+6/30/2012,AJK,Kotli,21459
+6/30/2012,AJK,Mirpur,8634
+6/30/2012,AJK,Muzaffarabad,28630
+6/30/2012,AJK,Neelum,1557
+6/30/2012,AJK,Poonch,15764
+6/30/2012,AJK,Sudhnati,7336
+6/30/2012,AJK,Total,104195
+6/30/2012,GB,Astore,2180
+6/30/2012,GB,Diamer,789
+6/30/2012,GB,Ghanche,3259
+6/30/2012,GB,Ghizer,14075
+6/30/2012,GB,Gilgit,26130
+6/30/2012,GB,Skardu,7276
+6/30/2012,GB,Total,53209
+6/30/2012,FATA,Bajaur Agency,8676
+6/30/2012,FATA,Khyber Agency,7214
+6/30/2012,FATA,Kurram Agency,4009
+6/30/2012,FATA,Mohmand Agency,2611
+6/30/2012,FATA,North Waziristan Agency,151
+6/30/2012,FATA,Orakzai Agency,2178
+6/30/2012,FATA,South Waziristan Agency,100
+6/30/2012,FATA,Total,24339
+6/30/2012,ICT,ICT,27314
+6/30/2012,ICT,Total,27314
+6/30/2013,Default,Default,0
+6/30/2013,Baluchistan,Awaran,600
+6/30/2013,Baluchistan,Barkhan,600
+6/30/2013,Baluchistan,Bolan,600
+6/30/2013,Baluchistan,Chagai,600
+6/30/2013,Baluchistan,Dera Bugti,600
+6/30/2013,Baluchistan,Gwadar,965
+6/30/2013,Baluchistan,Jafarabad,600
+6/30/2013,Baluchistan,Jhal Magsi,600
+6/30/2013,Baluchistan,Kalat,600
+6/30/2013,Baluchistan,Kech (Turbat),600
+6/30/2013,Baluchistan,Kharan,600
+6/30/2013,Baluchistan,Khuzdar,600
+6/30/2013,Baluchistan,Kohlu,600
+6/30/2013,Baluchistan,Lasbela,1683
+6/30/2013,Baluchistan,Loralai,600
+6/30/2013,Baluchistan,Mastung,600
+6/30/2013,Baluchistan,Musakhel,600
+6/30/2013,Baluchistan,Nasirabad,4836
+6/30/2013,Baluchistan,Nushki,600
+6/30/2013,Baluchistan,Panjgur,600
+6/30/2013,Baluchistan,Pishin,600
+6/30/2013,Baluchistan,Qila Abdullah,600
+6/30/2013,Baluchistan,Qila Saifullah,600
+6/30/2013,Baluchistan,Quetta,600
+6/30/2013,Baluchistan,Sherani,600
+6/30/2013,Baluchistan,Sibi,1745
+6/30/2013,Baluchistan,Washuk,600
+6/30/2013,Baluchistan,Zhob,600
+6/30/2013,Baluchistan,Ziarat,600
+6/30/2013,Baluchistan,Total,12524
+6/30/2013,KPK,Abbottabad,16822
+6/30/2013,KPK,Bannu,5098
+6/30/2013,KPK,Batgram,1042
+6/30/2013,KPK,Buner (Daggar),1602
+6/30/2013,KPK,Charsadda,5629
+6/30/2013,KPK,Chitral,8619
+6/30/2013,KPK,D.I. Khan,15108
+6/30/2013,KPK,Hangu,600
+6/30/2013,KPK,Haripur,24926
+6/30/2013,KPK,Karak,2457
+6/30/2013,KPK,Kohat,6046
+6/30/2013,KPK,Kohistan,660
+6/30/2013,KPK,Lakki Marwat,1271
+6/30/2013,KPK,Lower Dir,604
+6/30/2013,KPK,Malakand,4359
+6/30/2013,KPK,Mansehra,13709
+6/30/2013,KPK,Mardan,15392
+6/30/2013,KPK,Mingora,4453
+6/30/2013,KPK,Nowshera,16204
+6/30/2013,KPK,Peshawar,14442
+6/30/2013,KPK,Shangla,743
+6/30/2013,KPK,Swabi,8967
+6/30/2013,KPK,Swat,3814
+6/30/2013,KPK,Tank,2657
+6/30/2013,KPK,Upper Dir,600
+6/30/2013,KPK,Total,161424
+6/30/2013,Punjab,Attock,105160
+6/30/2013,Punjab,Bahawalpur,222955
+6/30/2013,Punjab,Bhakkar,113825
+6/30/2013,Punjab,Bhawalnagar,220715
+6/30/2013,Punjab,Chakwal,93906
+6/30/2013,Punjab,Chiniot,54872
+6/30/2013,Punjab,D.G. Khan,83809
+6/30/2013,Punjab,Faisalabad,308331
+6/30/2013,Punjab,Gujranwala,241131
+6/30/2013,Punjab,Gujrat,91918
+6/30/2013,Punjab,Hafizabad,69637
+6/30/2013,Punjab,Jhang,137937
+6/30/2013,Punjab,Jhelum,86587
+6/30/2013,Punjab,Kasur,154673
+6/30/2013,Punjab,Khanewal,109770
+6/30/2013,Punjab,Khushab,81655
+6/30/2013,Punjab,Lahore,312213
+6/30/2013,Punjab,Leyyah,167483
+6/30/2013,Punjab,Lodhran,120362
+6/30/2013,Punjab,Mandi Bahauddin,78575
+6/30/2013,Punjab,Mianwali,68435
+6/30/2013,Punjab,Multan,199609
+6/30/2013,Punjab,Muzaffargarh,183240
+6/30/2013,Punjab,Nankana Sahib,40138
+6/30/2013,Punjab,Narowal,100885
+6/30/2013,Punjab,Okara,155204
+6/30/2013,Punjab,Pakpattan,77857
+6/30/2013,Punjab,Rahimyar Khan,269711
+6/30/2013,Punjab,Rajanpur,110737
+6/30/2013,Punjab,Rawalpindi,162859
+6/30/2013,Punjab,Sahiwal,128708
+6/30/2013,Punjab,Sargodha,205049
+6/30/2013,Punjab,Sheikhupura,153869
+6/30/2013,Punjab,Sialkot,177330
+6/30/2013,Punjab,Toba Tek Singh,118421
+6/30/2013,Punjab,Vihari,136155
+6/30/2013,Punjab,Total,5166144
+6/30/2013,Sindh,Badin,57944
+6/30/2013,Sindh,Dadu,71723
+6/30/2013,Sindh,Ghotki,50062
+6/30/2013,Sindh,Hyderabad,87109
+6/30/2013,Sindh,Jacobabad,11877
+6/30/2013,Sindh,Jamshoro,32848
+6/30/2013,Sindh,Karachi,400289
+6/30/2013,Sindh,Kashmore,18713
+6/30/2013,Sindh,Khairpur,73188
+6/30/2013,Sindh,Larkana,65314
+6/30/2013,Sindh,Matyari,46827
+6/30/2013,Sindh,Mirpur Khas,78862
+6/30/2013,Sindh,Naushahro Feroze,69432
+6/30/2013,Sindh,Nawabshah,41439
+6/30/2013,Sindh,Sanghar,98648
+6/30/2013,Sindh,Sehwan Sharif,600
+6/30/2013,Sindh,Shaheed Benazirabad,21652
+6/30/2013,Sindh,Shehdad Kot,39783
+6/30/2013,Sindh,Shikarpur,28125
+6/30/2013,Sindh,Sujawal,6949
+6/30/2013,Sindh,Sukkur,81410
+6/30/2013,Sindh,Tando Allahyar,36369
+6/30/2013,Sindh,Tando Jam,2510
+6/30/2013,Sindh,Tando Muhammad Khan,69739
+6/30/2013,Sindh,Tharparkar,52089
+6/30/2013,Sindh,Thatta,37967
+6/30/2013,Sindh,Umer Kot,73571
+6/30/2013,Sindh,Total,1573145
+6/30/2013,AJK,Bagh,13789
+6/30/2013,AJK,Bhimber,8726
+6/30/2013,AJK,Kotli,21959
+6/30/2013,AJK,Mirpur,9134
+6/30/2013,AJK,Muzaffarabad,29130
+6/30/2013,AJK,Neelum,2057
+6/30/2013,AJK,Poonch,16264
+6/30/2013,AJK,Sudhnati,7836
+6/30/2013,AJK,Total,104695
+6/30/2013,GB,Astore,2680
+6/30/2013,GB,Diamer,1289
+6/30/2013,GB,Ghanche,3759
+6/30/2013,GB,Ghizer,14575
+6/30/2013,GB,Gilgit,26630
+6/30/2013,GB,Skardu,7776
+6/30/2013,GB,Total,53709
+6/30/2013,FATA,Bajaur Agency,9176
+6/30/2013,FATA,Khyber Agency,7714
+6/30/2013,FATA,Kurram Agency,4509
+6/30/2013,FATA,Mohmand Agency,3111
+6/30/2013,FATA,North Waziristan Agency,651
+6/30/2013,FATA,Orakzai Agency,2678
+6/30/2013,FATA,South Waziristan Agency,600
+6/30/2013,FATA,Total,24839
+6/30/2013,ICT,ICT,27814
+6/30/2013,ICT,Total,27814
+6/30/2014,Default,Default,0
+6/30/2014,Baluchistan,Awaran,1500
+6/30/2014,Baluchistan,Barkhan,1500
+6/30/2014,Baluchistan,Bolan,1500
+6/30/2014,Baluchistan,Chagai,1500
+6/30/2014,Baluchistan,Dera Bugti,1500
+6/30/2014,Baluchistan,Gwadar,1865
+6/30/2014,Baluchistan,Jafarabad,1500
+6/30/2014,Baluchistan,Jhal Magsi,1500
+6/30/2014,Baluchistan,Kalat,1500
+6/30/2014,Baluchistan,Kech (Turbat),1500
+6/30/2014,Baluchistan,Kharan,1500
+6/30/2014,Baluchistan,Khuzdar,1500
+6/30/2014,Baluchistan,Kohlu,1500
+6/30/2014,Baluchistan,Lasbela,2583
+6/30/2014,Baluchistan,Loralai,1500
+6/30/2014,Baluchistan,Mastung,1500
+6/30/2014,Baluchistan,Musakhel,1500
+6/30/2014,Baluchistan,Nasirabad,5736
+6/30/2014,Baluchistan,Nushki,1500
+6/30/2014,Baluchistan,Panjgur,1500
+6/30/2014,Baluchistan,Pishin,1500
+6/30/2014,Baluchistan,Qila Abdullah,1500
+6/30/2014,Baluchistan,Qila Saifullah,1500
+6/30/2014,Baluchistan,Quetta,1500
+6/30/2014,Baluchistan,Sherani,1500
+6/30/2014,Baluchistan,Sibi,2645
+6/30/2014,Baluchistan,Washuk,1500
+6/30/2014,Baluchistan,Zhob,1500
+6/30/2014,Baluchistan,Ziarat,1500
+6/30/2014,Baluchistan,Total,13424
+6/30/2014,KPK,Abbottabad,17722
+6/30/2014,KPK,Bannu,5998
+6/30/2014,KPK,Batgram,1942
+6/30/2014,KPK,Buner (Daggar),2502
+6/30/2014,KPK,Charsadda,6529
+6/30/2014,KPK,Chitral,9519
+6/30/2014,KPK,D.I. Khan,16008
+6/30/2014,KPK,Hangu,1500
+6/30/2014,KPK,Haripur,25826
+6/30/2014,KPK,Karak,3357
+6/30/2014,KPK,Kohat,6946
+6/30/2014,KPK,Kohistan,1560
+6/30/2014,KPK,Lakki Marwat,2171
+6/30/2014,KPK,Lower Dir,1504
+6/30/2014,KPK,Malakand,5259
+6/30/2014,KPK,Mansehra,14609
+6/30/2014,KPK,Mardan,16292
+6/30/2014,KPK,Mingora,5353
+6/30/2014,KPK,Nowshera,17104
+6/30/2014,KPK,Peshawar,15342
+6/30/2014,KPK,Shangla,1643
+6/30/2014,KPK,Swabi,9867
+6/30/2014,KPK,Swat,4714
+6/30/2014,KPK,Tank,3557
+6/30/2014,KPK,Upper Dir,1500
+6/30/2014,KPK,Total,162324
+6/30/2014,Punjab,Attock,106060
+6/30/2014,Punjab,Bahawalpur,223855
+6/30/2014,Punjab,Bhakkar,114725
+6/30/2014,Punjab,Bhawalnagar,221615
+6/30/2014,Punjab,Chakwal,94806
+6/30/2014,Punjab,Chiniot,55772
+6/30/2014,Punjab,D.G. Khan,84709
+6/30/2014,Punjab,Faisalabad,309231
+6/30/2014,Punjab,Gujranwala,242031
+6/30/2014,Punjab,Gujrat,92818
+6/30/2014,Punjab,Hafizabad,70537
+6/30/2014,Punjab,Jhang,138837
+6/30/2014,Punjab,Jhelum,87487
+6/30/2014,Punjab,Kasur,155573
+6/30/2014,Punjab,Khanewal,110670
+6/30/2014,Punjab,Khushab,82555
+6/30/2014,Punjab,Lahore,313113
+6/30/2014,Punjab,Leyyah,168383
+6/30/2014,Punjab,Lodhran,121262
+6/30/2014,Punjab,Mandi Bahauddin,79475
+6/30/2014,Punjab,Mianwali,69335
+6/30/2014,Punjab,Multan,200509
+6/30/2014,Punjab,Muzaffargarh,184140
+6/30/2014,Punjab,Nankana Sahib,41038
+6/30/2014,Punjab,Narowal,101785
+6/30/2014,Punjab,Okara,156104
+6/30/2014,Punjab,Pakpattan,78757
+6/30/2014,Punjab,Rahimyar Khan,270611
+6/30/2014,Punjab,Rajanpur,111637
+6/30/2014,Punjab,Rawalpindi,163759
+6/30/2014,Punjab,Sahiwal,129608
+6/30/2014,Punjab,Sargodha,205949
+6/30/2014,Punjab,Sheikhupura,154769
+6/30/2014,Punjab,Sialkot,178230
+6/30/2014,Punjab,Toba Tek Singh,119321
+6/30/2014,Punjab,Vihari,137055
+6/30/2014,Punjab,Total,5167044
+6/30/2014,Sindh,Badin,58844
+6/30/2014,Sindh,Dadu,72623
+6/30/2014,Sindh,Ghotki,50962
+6/30/2014,Sindh,Hyderabad,88009
+6/30/2014,Sindh,Jacobabad,12777
+6/30/2014,Sindh,Jamshoro,33748
+6/30/2014,Sindh,Karachi,401189
+6/30/2014,Sindh,Kashmore,19613
+6/30/2014,Sindh,Khairpur,74088
+6/30/2014,Sindh,Larkana,66214
+6/30/2014,Sindh,Matyari,47727
+6/30/2014,Sindh,Mirpur Khas,79762
+6/30/2014,Sindh,Naushahro Feroze,70332
+6/30/2014,Sindh,Nawabshah,42339
+6/30/2014,Sindh,Sanghar,99548
+6/30/2014,Sindh,Sehwan Sharif,1500
+6/30/2014,Sindh,Shaheed Benazirabad,22552
+6/30/2014,Sindh,Shehdad Kot,40683
+6/30/2014,Sindh,Shikarpur,29025
+6/30/2014,Sindh,Sujawal,7849
+6/30/2014,Sindh,Sukkur,82310
+6/30/2014,Sindh,Tando Allahyar,37269
+6/30/2014,Sindh,Tando Jam,3410
+6/30/2014,Sindh,Tando Muhammad Khan,70639
+6/30/2014,Sindh,Tharparkar,52989
+6/30/2014,Sindh,Thatta,38867
+6/30/2014,Sindh,Umer Kot,74471
+6/30/2014,Sindh,Total,1574045
+6/30/2014,AJK,Bagh,14689
+6/30/2014,AJK,Bhimber,9626
+6/30/2014,AJK,Kotli,22859
+6/30/2014,AJK,Mirpur,10034
+6/30/2014,AJK,Muzaffarabad,30030
+6/30/2014,AJK,Neelum,2957
+6/30/2014,AJK,Poonch,17164
+6/30/2014,AJK,Sudhnati,8736
+6/30/2014,AJK,Total,105595
+6/30/2014,GB,Astore,3580
+6/30/2014,GB,Diamer,2189
+6/30/2014,GB,Ghanche,4659
+6/30/2014,GB,Ghizer,15475
+6/30/2014,GB,Gilgit,27530
+6/30/2014,GB,Skardu,8676
+6/30/2014,GB,Total,54609
+6/30/2014,FATA,Bajaur Agency,10076
+6/30/2014,FATA,Khyber Agency,8614
+6/30/2014,FATA,Kurram Agency,5409
+6/30/2014,FATA,Mohmand Agency,4011
+6/30/2014,FATA,North Waziristan Agency,1551
+6/30/2014,FATA,Orakzai Agency,3578
+6/30/2014,FATA,South Waziristan Agency,1500
+6/30/2014,FATA,Total,25739
+6/30/2014,ICT,ICT,28714
+6/30/2014,ICT,Total,28714
+6/30/2015,Default,Default,0
+6/30/2015,Baluchistan,Awaran,3500
+6/30/2015,Baluchistan,Barkhan,3500
+6/30/2015,Baluchistan,Bolan,3500
+6/30/2015,Baluchistan,Chagai,3500
+6/30/2015,Baluchistan,Dera Bugti,3500
+6/30/2015,Baluchistan,Gwadar,3865
+6/30/2015,Baluchistan,Jafarabad,3500
+6/30/2015,Baluchistan,Jhal Magsi,3500
+6/30/2015,Baluchistan,Kalat,3500
+6/30/2015,Baluchistan,Kech (Turbat),3500
+6/30/2015,Baluchistan,Kharan,3500
+6/30/2015,Baluchistan,Khuzdar,3500
+6/30/2015,Baluchistan,Kohlu,3500
+6/30/2015,Baluchistan,Lasbela,4583
+6/30/2015,Baluchistan,Loralai,3500
+6/30/2015,Baluchistan,Mastung,3500
+6/30/2015,Baluchistan,Musakhel,3500
+6/30/2015,Baluchistan,Nasirabad,7736
+6/30/2015,Baluchistan,Nushki,3500
+6/30/2015,Baluchistan,Panjgur,3500
+6/30/2015,Baluchistan,Pishin,3500
+6/30/2015,Baluchistan,Qila Abdullah,3500
+6/30/2015,Baluchistan,Qila Saifullah,3500
+6/30/2015,Baluchistan,Quetta,3500
+6/30/2015,Baluchistan,Sherani,3500
+6/30/2015,Baluchistan,Sibi,4645
+6/30/2015,Baluchistan,Washuk,3500
+6/30/2015,Baluchistan,Zhob,3500
+6/30/2015,Baluchistan,Ziarat,3500
+6/30/2015,Baluchistan,Total,15424
+6/30/2015,KPK,Abbottabad,19722
+6/30/2015,KPK,Bannu,7998
+6/30/2015,KPK,Batgram,3942
+6/30/2015,KPK,Buner (Daggar),4502
+6/30/2015,KPK,Charsadda,8529
+6/30/2015,KPK,Chitral,11519
+6/30/2015,KPK,D.I. Khan,18008
+6/30/2015,KPK,Hangu,3500
+6/30/2015,KPK,Haripur,27826
+6/30/2015,KPK,Karak,5357
+6/30/2015,KPK,Kohat,8946
+6/30/2015,KPK,Kohistan,3560
+6/30/2015,KPK,Lakki Marwat,4171
+6/30/2015,KPK,Lower Dir,3504
+6/30/2015,KPK,Malakand,7259
+6/30/2015,KPK,Mansehra,16609
+6/30/2015,KPK,Mardan,18292
+6/30/2015,KPK,Mingora,7353
+6/30/2015,KPK,Nowshera,19104
+6/30/2015,KPK,Peshawar,17342
+6/30/2015,KPK,Shangla,3643
+6/30/2015,KPK,Swabi,11867
+6/30/2015,KPK,Swat,6714
+6/30/2015,KPK,Tank,5557
+6/30/2015,KPK,Upper Dir,3500
+6/30/2015,KPK,Total,164324
+6/30/2015,Punjab,Attock,108060
+6/30/2015,Punjab,Bahawalpur,225855
+6/30/2015,Punjab,Bhakkar,116725
+6/30/2015,Punjab,Bhawalnagar,223615
+6/30/2015,Punjab,Chakwal,96806
+6/30/2015,Punjab,Chiniot,57772
+6/30/2015,Punjab,D.G. Khan,86709
+6/30/2015,Punjab,Faisalabad,311231
+6/30/2015,Punjab,Gujranwala,244031
+6/30/2015,Punjab,Gujrat,94818
+6/30/2015,Punjab,Hafizabad,72537
+6/30/2015,Punjab,Jhang,140837
+6/30/2015,Punjab,Jhelum,89487
+6/30/2015,Punjab,Kasur,157573
+6/30/2015,Punjab,Khanewal,112670
+6/30/2015,Punjab,Khushab,84555
+6/30/2015,Punjab,Lahore,315113
+6/30/2015,Punjab,Leyyah,170383
+6/30/2015,Punjab,Lodhran,123262
+6/30/2015,Punjab,Mandi Bahauddin,81475
+6/30/2015,Punjab,Mianwali,71335
+6/30/2015,Punjab,Multan,202509
+6/30/2015,Punjab,Muzaffargarh,186140
+6/30/2015,Punjab,Nankana Sahib,43038
+6/30/2015,Punjab,Narowal,103785
+6/30/2015,Punjab,Okara,158104
+6/30/2015,Punjab,Pakpattan,80757
+6/30/2015,Punjab,Rahimyar Khan,272611
+6/30/2015,Punjab,Rajanpur,113637
+6/30/2015,Punjab,Rawalpindi,165759
+6/30/2015,Punjab,Sahiwal,131608
+6/30/2015,Punjab,Sargodha,207949
+6/30/2015,Punjab,Sheikhupura,156769
+6/30/2015,Punjab,Sialkot,180230
+6/30/2015,Punjab,Toba Tek Singh,121321
+6/30/2015,Punjab,Vihari,139055
+6/30/2015,Punjab,Total,5169044
+6/30/2015,Sindh,Badin,60844
+6/30/2015,Sindh,Dadu,74623
+6/30/2015,Sindh,Ghotki,52962
+6/30/2015,Sindh,Hyderabad,90009
+6/30/2015,Sindh,Jacobabad,14777
+6/30/2015,Sindh,Jamshoro,35748
+6/30/2015,Sindh,Karachi,403189
+6/30/2015,Sindh,Kashmore,21613
+6/30/2015,Sindh,Khairpur,76088
+6/30/2015,Sindh,Larkana,68214
+6/30/2015,Sindh,Matyari,49727
+6/30/2015,Sindh,Mirpur Khas,81762
+6/30/2015,Sindh,Naushahro Feroze,72332
+6/30/2015,Sindh,Nawabshah,44339
+6/30/2015,Sindh,Sanghar,101548
+6/30/2015,Sindh,Sehwan Sharif,3500
+6/30/2015,Sindh,Shaheed Benazirabad,24552
+6/30/2015,Sindh,Shehdad Kot,42683
+6/30/2015,Sindh,Shikarpur,31025
+6/30/2015,Sindh,Sujawal,9849
+6/30/2015,Sindh,Sukkur,84310
+6/30/2015,Sindh,Tando Allahyar,39269
+6/30/2015,Sindh,Tando Jam,5410
+6/30/2015,Sindh,Tando Muhammad Khan,72639
+6/30/2015,Sindh,Tharparkar,54989
+6/30/2015,Sindh,Thatta,40867
+6/30/2015,Sindh,Umer Kot,76471
+6/30/2015,Sindh,Total,1576045
+6/30/2015,AJK,Bagh,16689
+6/30/2015,AJK,Bhimber,11626
+6/30/2015,AJK,Kotli,24859
+6/30/2015,AJK,Mirpur,12034
+6/30/2015,AJK,Muzaffarabad,32030
+6/30/2015,AJK,Neelum,4957
+6/30/2015,AJK,Poonch,19164
+6/30/2015,AJK,Sudhnati,10736
+6/30/2015,AJK,Total,107595
+6/30/2015,GB,Astore,5580
+6/30/2015,GB,Diamer,4189
+6/30/2015,GB,Ghanche,6659
+6/30/2015,GB,Ghizer,17475
+6/30/2015,GB,Gilgit,29530
+6/30/2015,GB,Skardu,10676
+6/30/2015,GB,Total,56609
+6/30/2015,FATA,Bajaur Agency,12076
+6/30/2015,FATA,Khyber Agency,10614
+6/30/2015,FATA,Kurram Agency,7409
+6/30/2015,FATA,Mohmand Agency,6011
+6/30/2015,FATA,North Waziristan Agency,3551
+6/30/2015,FATA,Orakzai Agency,5578
+6/30/2015,FATA,South Waziristan Agency,3500
+6/30/2015,FATA,Total,27739
+6/30/2015,ICT,ICT,30714
+6/30/2015,ICT,Total,30714
+6/30/2016,Default,Default,0
+6/30/2016,Baluchistan,Awaran,5500
+6/30/2016,Baluchistan,Barkhan,5500
+6/30/2016,Baluchistan,Bolan,5500
+6/30/2016,Baluchistan,Chagai,5500
+6/30/2016,Baluchistan,Dera Bugti,5500
+6/30/2016,Baluchistan,Gwadar,5865
+6/30/2016,Baluchistan,Jafarabad,5500
+6/30/2016,Baluchistan,Jhal Magsi,5500
+6/30/2016,Baluchistan,Kalat,5500
+6/30/2016,Baluchistan,Kech (Turbat),5500
+6/30/2016,Baluchistan,Kharan,5500
+6/30/2016,Baluchistan,Khuzdar,5500
+6/30/2016,Baluchistan,Kohlu,5500
+6/30/2016,Baluchistan,Lasbela,6583
+6/30/2016,Baluchistan,Loralai,5500
+6/30/2016,Baluchistan,Mastung,5500
+6/30/2016,Baluchistan,Musakhel,5500
+6/30/2016,Baluchistan,Nasirabad,9736
+6/30/2016,Baluchistan,Nushki,5500
+6/30/2016,Baluchistan,Panjgur,5500
+6/30/2016,Baluchistan,Pishin,5500
+6/30/2016,Baluchistan,Qila Abdullah,5500
+6/30/2016,Baluchistan,Qila Saifullah,5500
+6/30/2016,Baluchistan,Quetta,5500
+6/30/2016,Baluchistan,Sherani,5500
+6/30/2016,Baluchistan,Sibi,6645
+6/30/2016,Baluchistan,Washuk,5500
+6/30/2016,Baluchistan,Zhob,5500
+6/30/2016,Baluchistan,Ziarat,5500
+6/30/2016,Baluchistan,Total,17424
+6/30/2016,KPK,Abbottabad,21722
+6/30/2016,KPK,Bannu,9998
+6/30/2016,KPK,Batgram,5942
+6/30/2016,KPK,Buner (Daggar),6502
+6/30/2016,KPK,Charsadda,10529
+6/30/2016,KPK,Chitral,13519
+6/30/2016,KPK,D.I. Khan,20008
+6/30/2016,KPK,Hangu,5500
+6/30/2016,KPK,Haripur,29826
+6/30/2016,KPK,Karak,7357
+6/30/2016,KPK,Kohat,10946
+6/30/2016,KPK,Kohistan,5560
+6/30/2016,KPK,Lakki Marwat,6171
+6/30/2016,KPK,Lower Dir,5504
+6/30/2016,KPK,Malakand,9259
+6/30/2016,KPK,Mansehra,18609
+6/30/2016,KPK,Mardan,20292
+6/30/2016,KPK,Mingora,9353
+6/30/2016,KPK,Nowshera,21104
+6/30/2016,KPK,Peshawar,19342
+6/30/2016,KPK,Shangla,5643
+6/30/2016,KPK,Swabi,13867
+6/30/2016,KPK,Swat,8714
+6/30/2016,KPK,Tank,7557
+6/30/2016,KPK,Upper Dir,5500
+6/30/2016,KPK,Total,166324
+6/30/2016,Punjab,Attock,110060
+6/30/2016,Punjab,Bahawalpur,227855
+6/30/2016,Punjab,Bhakkar,118725
+6/30/2016,Punjab,Bhawalnagar,225615
+6/30/2016,Punjab,Chakwal,98806
+6/30/2016,Punjab,Chiniot,59772
+6/30/2016,Punjab,D.G. Khan,88709
+6/30/2016,Punjab,Faisalabad,313231
+6/30/2016,Punjab,Gujranwala,246031
+6/30/2016,Punjab,Gujrat,96818
+6/30/2016,Punjab,Hafizabad,74537
+6/30/2016,Punjab,Jhang,142837
+6/30/2016,Punjab,Jhelum,91487
+6/30/2016,Punjab,Kasur,159573
+6/30/2016,Punjab,Khanewal,114670
+6/30/2016,Punjab,Khushab,86555
+6/30/2016,Punjab,Lahore,317113
+6/30/2016,Punjab,Leyyah,172383
+6/30/2016,Punjab,Lodhran,125262
+6/30/2016,Punjab,Mandi Bahauddin,83475
+6/30/2016,Punjab,Mianwali,73335
+6/30/2016,Punjab,Multan,204509
+6/30/2016,Punjab,Muzaffargarh,188140
+6/30/2016,Punjab,Nankana Sahib,45038
+6/30/2016,Punjab,Narowal,105785
+6/30/2016,Punjab,Okara,160104
+6/30/2016,Punjab,Pakpattan,82757
+6/30/2016,Punjab,Rahimyar Khan,274611
+6/30/2016,Punjab,Rajanpur,115637
+6/30/2016,Punjab,Rawalpindi,167759
+6/30/2016,Punjab,Sahiwal,133608
+6/30/2016,Punjab,Sargodha,209949
+6/30/2016,Punjab,Sheikhupura,158769
+6/30/2016,Punjab,Sialkot,182230
+6/30/2016,Punjab,Toba Tek Singh,123321
+6/30/2016,Punjab,Vihari,141055
+6/30/2016,Punjab,Total,5171044
+6/30/2016,Sindh,Badin,62844
+6/30/2016,Sindh,Dadu,76623
+6/30/2016,Sindh,Ghotki,54962
+6/30/2016,Sindh,Hyderabad,92009
+6/30/2016,Sindh,Jacobabad,16777
+6/30/2016,Sindh,Jamshoro,37748
+6/30/2016,Sindh,Karachi,405189
+6/30/2016,Sindh,Kashmore,23613
+6/30/2016,Sindh,Khairpur,78088
+6/30/2016,Sindh,Larkana,70214
+6/30/2016,Sindh,Matyari,51727
+6/30/2016,Sindh,Mirpur Khas,83762
+6/30/2016,Sindh,Naushahro Feroze,74332
+6/30/2016,Sindh,Nawabshah,46339
+6/30/2016,Sindh,Sanghar,103548
+6/30/2016,Sindh,Sehwan Sharif,5500
+6/30/2016,Sindh,Shaheed Benazirabad,26552
+6/30/2016,Sindh,Shehdad Kot,44683
+6/30/2016,Sindh,Shikarpur,33025
+6/30/2016,Sindh,Sujawal,11849
+6/30/2016,Sindh,Sukkur,86310
+6/30/2016,Sindh,Tando Allahyar,41269
+6/30/2016,Sindh,Tando Jam,7410
+6/30/2016,Sindh,Tando Muhammad Khan,74639
+6/30/2016,Sindh,Tharparkar,56989
+6/30/2016,Sindh,Thatta,42867
+6/30/2016,Sindh,Umer Kot,78471
+6/30/2016,Sindh,Total,1578045
+6/30/2016,AJK,Bagh,18689
+6/30/2016,AJK,Bhimber,13626
+6/30/2016,AJK,Kotli,26859
+6/30/2016,AJK,Mirpur,14034
+6/30/2016,AJK,Muzaffarabad,34030
+6/30/2016,AJK,Neelum,6957
+6/30/2016,AJK,Poonch,21164
+6/30/2016,AJK,Sudhnati,12736
+6/30/2016,AJK,Total,109595
+6/30/2016,GB,Astore,7580
+6/30/2016,GB,Diamer,6189
+6/30/2016,GB,Ghanche,8659
+6/30/2016,GB,Ghizer,19475
+6/30/2016,GB,Gilgit,31530
+6/30/2016,GB,Skardu,12676
+6/30/2016,GB,Total,58609
+6/30/2016,FATA,Bajaur Agency,14076
+6/30/2016,FATA,Khyber Agency,12614
+6/30/2016,FATA,Kurram Agency,9409
+6/30/2016,FATA,Mohmand Agency,8011
+6/30/2016,FATA,North Waziristan Agency,5551
+6/30/2016,FATA,Orakzai Agency,7578
+6/30/2016,FATA,South Waziristan Agency,5500
+6/30/2016,FATA,Total,29739
+6/30/2016,ICT,ICT,32714
+6/30/2016,ICT,Total,32714
+6/30/2017,Default,Default,0
+6/30/2017,Baluchistan,Awaran,10500
+6/30/2017,Baluchistan,Barkhan,10500
+6/30/2017,Baluchistan,Bolan,10500
+6/30/2017,Baluchistan,Chagai,10500
+6/30/2017,Baluchistan,Dera Bugti,10500
+6/30/2017,Baluchistan,Gwadar,10865
+6/30/2017,Baluchistan,Jafarabad,10500
+6/30/2017,Baluchistan,Jhal Magsi,10500
+6/30/2017,Baluchistan,Kalat,10500
+6/30/2017,Baluchistan,Kech (Turbat),10500
+6/30/2017,Baluchistan,Kharan,10500
+6/30/2017,Baluchistan,Khuzdar,10500
+6/30/2017,Baluchistan,Kohlu,10500
+6/30/2017,Baluchistan,Lasbela,11583
+6/30/2017,Baluchistan,Loralai,10500
+6/30/2017,Baluchistan,Mastung,10500
+6/30/2017,Baluchistan,Musakhel,10500
+6/30/2017,Baluchistan,Nasirabad,14736
+6/30/2017,Baluchistan,Nushki,10500
+6/30/2017,Baluchistan,Panjgur,10500
+6/30/2017,Baluchistan,Pishin,10500
+6/30/2017,Baluchistan,Qila Abdullah,10500
+6/30/2017,Baluchistan,Qila Saifullah,10500
+6/30/2017,Baluchistan,Quetta,10500
+6/30/2017,Baluchistan,Sherani,10500
+6/30/2017,Baluchistan,Sibi,11645
+6/30/2017,Baluchistan,Washuk,10500
+6/30/2017,Baluchistan,Zhob,10500
+6/30/2017,Baluchistan,Ziarat,10500
+6/30/2017,Baluchistan,Total,22424
+6/30/2017,KPK,Abbottabad,26722
+6/30/2017,KPK,Bannu,14998
+6/30/2017,KPK,Batgram,10942
+6/30/2017,KPK,Buner (Daggar),11502
+6/30/2017,KPK,Charsadda,15529
+6/30/2017,KPK,Chitral,18519
+6/30/2017,KPK,D.I. Khan,25008
+6/30/2017,KPK,Hangu,10500
+6/30/2017,KPK,Haripur,34826
+6/30/2017,KPK,Karak,12357
+6/30/2017,KPK,Kohat,15946
+6/30/2017,KPK,Kohistan,10560
+6/30/2017,KPK,Lakki Marwat,11171
+6/30/2017,KPK,Lower Dir,10504
+6/30/2017,KPK,Malakand,14259
+6/30/2017,KPK,Mansehra,23609
+6/30/2017,KPK,Mardan,25292
+6/30/2017,KPK,Mingora,14353
+6/30/2017,KPK,Nowshera,26104
+6/30/2017,KPK,Peshawar,24342
+6/30/2017,KPK,Shangla,10643
+6/30/2017,KPK,Swabi,18867
+6/30/2017,KPK,Swat,13714
+6/30/2017,KPK,Tank,12557
+6/30/2017,KPK,Upper Dir,10500
+6/30/2017,KPK,Total,171324
+6/30/2017,Punjab,Attock,115060
+6/30/2017,Punjab,Bahawalpur,232855
+6/30/2017,Punjab,Bhakkar,123725
+6/30/2017,Punjab,Bhawalnagar,230615
+6/30/2017,Punjab,Chakwal,103806
+6/30/2017,Punjab,Chiniot,64772
+6/30/2017,Punjab,D.G. Khan,93709
+6/30/2017,Punjab,Faisalabad,318231
+6/30/2017,Punjab,Gujranwala,251031
+6/30/2017,Punjab,Gujrat,101818
+6/30/2017,Punjab,Hafizabad,79537
+6/30/2017,Punjab,Jhang,147837
+6/30/2017,Punjab,Jhelum,96487
+6/30/2017,Punjab,Kasur,164573
+6/30/2017,Punjab,Khanewal,119670
+6/30/2017,Punjab,Khushab,91555
+6/30/2017,Punjab,Lahore,322113
+6/30/2017,Punjab,Leyyah,177383
+6/30/2017,Punjab,Lodhran,130262
+6/30/2017,Punjab,Mandi Bahauddin,88475
+6/30/2017,Punjab,Mianwali,78335
+6/30/2017,Punjab,Multan,209509
+6/30/2017,Punjab,Muzaffargarh,193140
+6/30/2017,Punjab,Nankana Sahib,50038
+6/30/2017,Punjab,Narowal,110785
+6/30/2017,Punjab,Okara,165104
+6/30/2017,Punjab,Pakpattan,87757
+6/30/2017,Punjab,Rahimyar Khan,279611
+6/30/2017,Punjab,Rajanpur,120637
+6/30/2017,Punjab,Rawalpindi,172759
+6/30/2017,Punjab,Sahiwal,138608
+6/30/2017,Punjab,Sargodha,214949
+6/30/2017,Punjab,Sheikhupura,163769
+6/30/2017,Punjab,Sialkot,187230
+6/30/2017,Punjab,Toba Tek Singh,128321
+6/30/2017,Punjab,Vihari,146055
+6/30/2017,Punjab,Total,5176044
+6/30/2017,Sindh,Badin,67844
+6/30/2017,Sindh,Dadu,81623
+6/30/2017,Sindh,Ghotki,59962
+6/30/2017,Sindh,Hyderabad,97009
+6/30/2017,Sindh,Jacobabad,21777
+6/30/2017,Sindh,Jamshoro,42748
+6/30/2017,Sindh,Karachi,410189
+6/30/2017,Sindh,Kashmore,28613
+6/30/2017,Sindh,Khairpur,83088
+6/30/2017,Sindh,Larkana,75214
+6/30/2017,Sindh,Matyari,56727
+6/30/2017,Sindh,Mirpur Khas,88762
+6/30/2017,Sindh,Naushahro Feroze,79332
+6/30/2017,Sindh,Nawabshah,51339
+6/30/2017,Sindh,Sanghar,108548
+6/30/2017,Sindh,Sehwan Sharif,10500
+6/30/2017,Sindh,Shaheed Benazirabad,31552
+6/30/2017,Sindh,Shehdad Kot,49683
+6/30/2017,Sindh,Shikarpur,38025
+6/30/2017,Sindh,Sujawal,16849
+6/30/2017,Sindh,Sukkur,91310
+6/30/2017,Sindh,Tando Allahyar,46269
+6/30/2017,Sindh,Tando Jam,12410
+6/30/2017,Sindh,Tando Muhammad Khan,79639
+6/30/2017,Sindh,Tharparkar,61989
+6/30/2017,Sindh,Thatta,47867
+6/30/2017,Sindh,Umer Kot,83471
+6/30/2017,Sindh,Total,1583045
+6/30/2017,AJK,Bagh,23689
+6/30/2017,AJK,Bhimber,18626
+6/30/2017,AJK,Kotli,31859
+6/30/2017,AJK,Mirpur,19034
+6/30/2017,AJK,Muzaffarabad,39030
+6/30/2017,AJK,Neelum,11957
+6/30/2017,AJK,Poonch,26164
+6/30/2017,AJK,Sudhnati,17736
+6/30/2017,AJK,Total,114595
+6/30/2017,GB,Astore,12580
+6/30/2017,GB,Diamer,11189
+6/30/2017,GB,Ghanche,13659
+6/30/2017,GB,Ghizer,24475
+6/30/2017,GB,Gilgit,36530
+6/30/2017,GB,Skardu,17676
+6/30/2017,GB,Total,63609
+6/30/2017,FATA,Bajaur Agency,19076
+6/30/2017,FATA,Khyber Agency,17614
+6/30/2017,FATA,Kurram Agency,14409
+6/30/2017,FATA,Mohmand Agency,13011
+6/30/2017,FATA,North Waziristan Agency,10551
+6/30/2017,FATA,Orakzai Agency,12578
+6/30/2017,FATA,South Waziristan Agency,10500
+6/30/2017,FATA,Total,34739
+6/30/2017,ICT,ICT,37714
+6/30/2017,ICT,Total,37714
+6/30/2018,Default,Default,0
+6/30/2018,Baluchistan,Awaran,13500
+6/30/2018,Baluchistan,Barkhan,13500
+6/30/2018,Baluchistan,Bolan,13500
+6/30/2018,Baluchistan,Chagai,13500
+6/30/2018,Baluchistan,Dera Bugti,13500
+6/30/2018,Baluchistan,Gwadar,13865
+6/30/2018,Baluchistan,Jafarabad,13500
+6/30/2018,Baluchistan,Jhal Magsi,13500
+6/30/2018,Baluchistan,Kalat,13500
+6/30/2018,Baluchistan,Kech (Turbat),13500
+6/30/2018,Baluchistan,Kharan,13500
+6/30/2018,Baluchistan,Khuzdar,13500
+6/30/2018,Baluchistan,Kohlu,13500
+6/30/2018,Baluchistan,Lasbela,14583
+6/30/2018,Baluchistan,Loralai,13500
+6/30/2018,Baluchistan,Mastung,13500
+6/30/2018,Baluchistan,Musakhel,13500
+6/30/2018,Baluchistan,Nasirabad,17736
+6/30/2018,Baluchistan,Nushki,13500
+6/30/2018,Baluchistan,Panjgur,13500
+6/30/2018,Baluchistan,Pishin,13500
+6/30/2018,Baluchistan,Qila Abdullah,13500
+6/30/2018,Baluchistan,Qila Saifullah,13500
+6/30/2018,Baluchistan,Quetta,13500
+6/30/2018,Baluchistan,Sherani,13500
+6/30/2018,Baluchistan,Sibi,14645
+6/30/2018,Baluchistan,Washuk,13500
+6/30/2018,Baluchistan,Zhob,13500
+6/30/2018,Baluchistan,Ziarat,13500
+6/30/2018,Baluchistan,Total,25424
+6/30/2018,KPK,Abbottabad,29722
+6/30/2018,KPK,Bannu,17998
+6/30/2018,KPK,Batgram,13942
+6/30/2018,KPK,Buner (Daggar),14502
+6/30/2018,KPK,Charsadda,18529
+6/30/2018,KPK,Chitral,21519
+6/30/2018,KPK,D.I. Khan,28008
+6/30/2018,KPK,Hangu,13500
+6/30/2018,KPK,Haripur,37826
+6/30/2018,KPK,Karak,15357
+6/30/2018,KPK,Kohat,18946
+6/30/2018,KPK,Kohistan,13560
+6/30/2018,KPK,Lakki Marwat,14171
+6/30/2018,KPK,Lower Dir,13504
+6/30/2018,KPK,Malakand,17259
+6/30/2018,KPK,Mansehra,26609
+6/30/2018,KPK,Mardan,28292
+6/30/2018,KPK,Mingora,17353
+6/30/2018,KPK,Nowshera,29104
+6/30/2018,KPK,Peshawar,27342
+6/30/2018,KPK,Shangla,13643
+6/30/2018,KPK,Swabi,21867
+6/30/2018,KPK,Swat,16714
+6/30/2018,KPK,Tank,15557
+6/30/2018,KPK,Upper Dir,13500
+6/30/2018,KPK,Total,174324
+6/30/2018,Punjab,Attock,118060
+6/30/2018,Punjab,Bahawalpur,235855
+6/30/2018,Punjab,Bhakkar,126725
+6/30/2018,Punjab,Bhawalnagar,233615
+6/30/2018,Punjab,Chakwal,106806
+6/30/2018,Punjab,Chiniot,67772
+6/30/2018,Punjab,D.G. Khan,96709
+6/30/2018,Punjab,Faisalabad,321231
+6/30/2018,Punjab,Gujranwala,254031
+6/30/2018,Punjab,Gujrat,104818
+6/30/2018,Punjab,Hafizabad,82537
+6/30/2018,Punjab,Jhang,150837
+6/30/2018,Punjab,Jhelum,99487
+6/30/2018,Punjab,Kasur,167573
+6/30/2018,Punjab,Khanewal,122670
+6/30/2018,Punjab,Khushab,94555
+6/30/2018,Punjab,Lahore,325113
+6/30/2018,Punjab,Leyyah,180383
+6/30/2018,Punjab,Lodhran,133262
+6/30/2018,Punjab,Mandi Bahauddin,91475
+6/30/2018,Punjab,Mianwali,81335
+6/30/2018,Punjab,Multan,212509
+6/30/2018,Punjab,Muzaffargarh,196140
+6/30/2018,Punjab,Nankana Sahib,53038
+6/30/2018,Punjab,Narowal,113785
+6/30/2018,Punjab,Okara,168104
+6/30/2018,Punjab,Pakpattan,90757
+6/30/2018,Punjab,Rahimyar Khan,282611
+6/30/2018,Punjab,Rajanpur,123637
+6/30/2018,Punjab,Rawalpindi,175759
+6/30/2018,Punjab,Sahiwal,141608
+6/30/2018,Punjab,Sargodha,217949
+6/30/2018,Punjab,Sheikhupura,166769
+6/30/2018,Punjab,Sialkot,190230
+6/30/2018,Punjab,Toba Tek Singh,131321
+6/30/2018,Punjab,Vihari,149055
+6/30/2018,Punjab,Total,5179044
+6/30/2018,Sindh,Badin,70844
+6/30/2018,Sindh,Dadu,84623
+6/30/2018,Sindh,Ghotki,62962
+6/30/2018,Sindh,Hyderabad,100009
+6/30/2018,Sindh,Jacobabad,24777
+6/30/2018,Sindh,Jamshoro,45748
+6/30/2018,Sindh,Karachi,413189
+6/30/2018,Sindh,Kashmore,31613
+6/30/2018,Sindh,Khairpur,86088
+6/30/2018,Sindh,Larkana,78214
+6/30/2018,Sindh,Matyari,59727
+6/30/2018,Sindh,Mirpur Khas,91762
+6/30/2018,Sindh,Naushahro Feroze,82332
+6/30/2018,Sindh,Nawabshah,54339
+6/30/2018,Sindh,Sanghar,111548
+6/30/2018,Sindh,Sehwan Sharif,13500
+6/30/2018,Sindh,Shaheed Benazirabad,34552
+6/30/2018,Sindh,Shehdad Kot,52683
+6/30/2018,Sindh,Shikarpur,41025
+6/30/2018,Sindh,Sujawal,19849
+6/30/2018,Sindh,Sukkur,94310
+6/30/2018,Sindh,Tando Allahyar,49269
+6/30/2018,Sindh,Tando Jam,15410
+6/30/2018,Sindh,Tando Muhammad Khan,82639
+6/30/2018,Sindh,Tharparkar,64989
+6/30/2018,Sindh,Thatta,50867
+6/30/2018,Sindh,Umer Kot,86471
+6/30/2018,Sindh,Total,1586045
+6/30/2018,AJK,Bagh,26689
+6/30/2018,AJK,Bhimber,21626
+6/30/2018,AJK,Kotli,34859
+6/30/2018,AJK,Mirpur,22034
+6/30/2018,AJK,Muzaffarabad,42030
+6/30/2018,AJK,Neelum,14957
+6/30/2018,AJK,Poonch,29164
+6/30/2018,AJK,Sudhnati,20736
+6/30/2018,AJK,Total,117595
+6/30/2018,GB,Astore,15580
+6/30/2018,GB,Diamer,14189
+6/30/2018,GB,Ghanche,16659
+6/30/2018,GB,Ghizer,27475
+6/30/2018,GB,Gilgit,39530
+6/30/2018,GB,Skardu,20676
+6/30/2018,GB,Total,66609
+6/30/2018,FATA,Bajaur Agency,22076
+6/30/2018,FATA,Khyber Agency,20614
+6/30/2018,FATA,Kurram Agency,17409
+6/30/2018,FATA,Mohmand Agency,16011
+6/30/2018,FATA,North Waziristan Agency,13551
+6/30/2018,FATA,Orakzai Agency,15578
+6/30/2018,FATA,South Waziristan Agency,13500
+6/30/2018,FATA,Total,37739
+6/30/2018,ICT,ICT,40714
+6/30/2018,ICT,Total,40714
+6/30/2019,Default,Default,0
+6/30/2019,Baluchistan,Awaran,13700
+6/30/2019,Baluchistan,Barkhan,13700
+6/30/2019,Baluchistan,Bolan,13700
+6/30/2019,Baluchistan,Chagai,13700
+6/30/2019,Baluchistan,Dera Bugti,13700
+6/30/2019,Baluchistan,Gwadar,14065
+6/30/2019,Baluchistan,Jafarabad,13700
+6/30/2019,Baluchistan,Jhal Magsi,13700
+6/30/2019,Baluchistan,Kalat,13700
+6/30/2019,Baluchistan,Kech (Turbat),13700
+6/30/2019,Baluchistan,Kharan,13700
+6/30/2019,Baluchistan,Khuzdar,13700
+6/30/2019,Baluchistan,Kohlu,13700
+6/30/2019,Baluchistan,Lasbela,14783
+6/30/2019,Baluchistan,Loralai,13700
+6/30/2019,Baluchistan,Mastung,13700
+6/30/2019,Baluchistan,Musakhel,13700
+6/30/2019,Baluchistan,Nasirabad,17936
+6/30/2019,Baluchistan,Nushki,13700
+6/30/2019,Baluchistan,Panjgur,13700
+6/30/2019,Baluchistan,Pishin,13700
+6/30/2019,Baluchistan,Qila Abdullah,13700
+6/30/2019,Baluchistan,Qila Saifullah,13700
+6/30/2019,Baluchistan,Quetta,13700
+6/30/2019,Baluchistan,Sherani,13700
+6/30/2019,Baluchistan,Sibi,14845
+6/30/2019,Baluchistan,Washuk,13700
+6/30/2019,Baluchistan,Zhob,13700
+6/30/2019,Baluchistan,Ziarat,13700
+6/30/2019,Baluchistan,Total,25624
+6/30/2019,KPK,Abbottabad,29922
+6/30/2019,KPK,Bannu,18198
+6/30/2019,KPK,Batgram,14142
+6/30/2019,KPK,Buner (Daggar),14702
+6/30/2019,KPK,Charsadda,18729
+6/30/2019,KPK,Chitral,21719
+6/30/2019,KPK,D.I. Khan,28208
+6/30/2019,KPK,Hangu,13700
+6/30/2019,KPK,Haripur,38026
+6/30/2019,KPK,Karak,15557
+6/30/2019,KPK,Kohat,19146
+6/30/2019,KPK,Kohistan,13760
+6/30/2019,KPK,Lakki Marwat,14371
+6/30/2019,KPK,Lower Dir,13704
+6/30/2019,KPK,Malakand,17459
+6/30/2019,KPK,Mansehra,26809
+6/30/2019,KPK,Mardan,28492
+6/30/2019,KPK,Mingora,17553
+6/30/2019,KPK,Nowshera,29304
+6/30/2019,KPK,Peshawar,27542
+6/30/2019,KPK,Shangla,13843
+6/30/2019,KPK,Swabi,22067
+6/30/2019,KPK,Swat,16914
+6/30/2019,KPK,Tank,15757
+6/30/2019,KPK,Upper Dir,13700
+6/30/2019,KPK,Total,174524
+6/30/2019,Punjab,Attock,118260
+6/30/2019,Punjab,Bahawalpur,236055
+6/30/2019,Punjab,Bhakkar,126925
+6/30/2019,Punjab,Bhawalnagar,233815
+6/30/2019,Punjab,Chakwal,107006
+6/30/2019,Punjab,Chiniot,67972
+6/30/2019,Punjab,D.G. Khan,96909
+6/30/2019,Punjab,Faisalabad,321431
+6/30/2019,Punjab,Gujranwala,254231
+6/30/2019,Punjab,Gujrat,105018
+6/30/2019,Punjab,Hafizabad,82737
+6/30/2019,Punjab,Jhang,151037
+6/30/2019,Punjab,Jhelum,99687
+6/30/2019,Punjab,Kasur,167773
+6/30/2019,Punjab,Khanewal,122870
+6/30/2019,Punjab,Khushab,94755
+6/30/2019,Punjab,Lahore,325313
+6/30/2019,Punjab,Leyyah,180583
+6/30/2019,Punjab,Lodhran,133462
+6/30/2019,Punjab,Mandi Bahauddin,91675
+6/30/2019,Punjab,Mianwali,81535
+6/30/2019,Punjab,Multan,212709
+6/30/2019,Punjab,Muzaffargarh,196340
+6/30/2019,Punjab,Nankana Sahib,53238
+6/30/2019,Punjab,Narowal,113985
+6/30/2019,Punjab,Okara,168304
+6/30/2019,Punjab,Pakpattan,90957
+6/30/2019,Punjab,Rahimyar Khan,282811
+6/30/2019,Punjab,Rajanpur,123837
+6/30/2019,Punjab,Rawalpindi,175959
+6/30/2019,Punjab,Sahiwal,141808
+6/30/2019,Punjab,Sargodha,218149
+6/30/2019,Punjab,Sheikhupura,166969
+6/30/2019,Punjab,Sialkot,190430
+6/30/2019,Punjab,Toba Tek Singh,131521
+6/30/2019,Punjab,Vihari,149255
+6/30/2019,Punjab,Total,5179244
+6/30/2019,Sindh,Badin,71044
+6/30/2019,Sindh,Dadu,84823
+6/30/2019,Sindh,Ghotki,63162
+6/30/2019,Sindh,Hyderabad,100209
+6/30/2019,Sindh,Jacobabad,24977
+6/30/2019,Sindh,Jamshoro,45948
+6/30/2019,Sindh,Karachi,413389
+6/30/2019,Sindh,Kashmore,31813
+6/30/2019,Sindh,Khairpur,86288
+6/30/2019,Sindh,Larkana,78414
+6/30/2019,Sindh,Matyari,59927
+6/30/2019,Sindh,Mirpur Khas,91962
+6/30/2019,Sindh,Naushahro Feroze,82532
+6/30/2019,Sindh,Nawabshah,54539
+6/30/2019,Sindh,Sanghar,111748
+6/30/2019,Sindh,Sehwan Sharif,13700
+6/30/2019,Sindh,Shaheed Benazirabad,34752
+6/30/2019,Sindh,Shehdad Kot,52883
+6/30/2019,Sindh,Shikarpur,41225
+6/30/2019,Sindh,Sujawal,20049
+6/30/2019,Sindh,Sukkur,94510
+6/30/2019,Sindh,Tando Allahyar,49469
+6/30/2019,Sindh,Tando Jam,15610
+6/30/2019,Sindh,Tando Muhammad Khan,82839
+6/30/2019,Sindh,Tharparkar,65189
+6/30/2019,Sindh,Thatta,51067
+6/30/2019,Sindh,Umer Kot,86671
+6/30/2019,Sindh,Total,1586245
+6/30/2019,AJK,Bagh,26889
+6/30/2019,AJK,Bhimber,21826
+6/30/2019,AJK,Kotli,35059
+6/30/2019,AJK,Mirpur,22234
+6/30/2019,AJK,Muzaffarabad,42230
+6/30/2019,AJK,Neelum,15157
+6/30/2019,AJK,Poonch,29364
+6/30/2019,AJK,Sudhnati,20936
+6/30/2019,AJK,Total,117795
+6/30/2019,GB,Astore,15780
+6/30/2019,GB,Diamer,14389
+6/30/2019,GB,Ghanche,16859
+6/30/2019,GB,Ghizer,27675
+6/30/2019,GB,Gilgit,39730
+6/30/2019,GB,Skardu,20876
+6/30/2019,GB,Total,66809
+6/30/2019,FATA,Bajaur Agency,22276
+6/30/2019,FATA,Khyber Agency,20814
+6/30/2019,FATA,Kurram Agency,17609
+6/30/2019,FATA,Mohmand Agency,16211
+6/30/2019,FATA,North Waziristan Agency,13751
+6/30/2019,FATA,Orakzai Agency,15778
+6/30/2019,FATA,South Waziristan Agency,13700
+6/30/2019,FATA,Total,37939
+6/30/2019,ICT,ICT,40914
+6/30/2019,ICT,Total,40914

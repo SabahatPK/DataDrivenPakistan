@@ -1,0 +1,149 @@
+Date,Province,District,Active Borrowers
+6/30/2019,Default,Default,0
+6/30/2019,Baluchistan,Awaran,0
+6/30/2019,Baluchistan,Barkhan,0
+6/30/2019,Baluchistan,Bolan,0
+6/30/2019,Baluchistan,Chagai,0
+6/30/2019,Baluchistan,Dera Bugti,0
+6/30/2019,Baluchistan,Gwadar,365
+6/30/2019,Baluchistan,Jafarabad,0
+6/30/2019,Baluchistan,Jhal Magsi,0
+6/30/2019,Baluchistan,Kalat,0
+6/30/2019,Baluchistan,Kech (Turbat),0
+6/30/2019,Baluchistan,Kharan,0
+6/30/2019,Baluchistan,Khuzdar,0
+6/30/2019,Baluchistan,Kohlu,0
+6/30/2019,Baluchistan,Lasbela,1083
+6/30/2019,Baluchistan,Loralai,0
+6/30/2019,Baluchistan,Mastung,0
+6/30/2019,Baluchistan,Musakhel,0
+6/30/2019,Baluchistan,Nasirabad,4236
+6/30/2019,Baluchistan,Nushki,0
+6/30/2019,Baluchistan,Panjgur,0
+6/30/2019,Baluchistan,Pishin,0
+6/30/2019,Baluchistan,Qila Abdullah,0
+6/30/2019,Baluchistan,Qila Saifullah,0
+6/30/2019,Baluchistan,Quetta,0
+6/30/2019,Baluchistan,Sherani,0
+6/30/2019,Baluchistan,Sibi,1145
+6/30/2019,Baluchistan,Washuk,0
+6/30/2019,Baluchistan,Zhob,0
+6/30/2019,Baluchistan,Ziarat,0
+6/30/2019,Baluchistan,Total,11924
+6/30/2019,KPK,Abbottabad,16222
+6/30/2019,KPK,Bannu,4498
+6/30/2019,KPK,Batgram,442
+6/30/2019,KPK,Buner (Daggar),1002
+6/30/2019,KPK,Charsadda,5029
+6/30/2019,KPK,Chitral,8019
+6/30/2019,KPK,D.I. Khan,14508
+6/30/2019,KPK,Hangu,0
+6/30/2019,KPK,Haripur,24326
+6/30/2019,KPK,Karak,1857
+6/30/2019,KPK,Kohat,5446
+6/30/2019,KPK,Kohistan,60
+6/30/2019,KPK,Lakki Marwat,671
+6/30/2019,KPK,Lower Dir,4
+6/30/2019,KPK,Malakand,3759
+6/30/2019,KPK,Mansehra,13109
+6/30/2019,KPK,Mardan,14792
+6/30/2019,KPK,Mingora,3853
+6/30/2019,KPK,Nowshera,15604
+6/30/2019,KPK,Peshawar,13842
+6/30/2019,KPK,Shangla,143
+6/30/2019,KPK,Swabi,8367
+6/30/2019,KPK,Swat,3214
+6/30/2019,KPK,Tank,2057
+6/30/2019,KPK,Upper Dir,0
+6/30/2019,KPK,Total,160824
+6/30/2019,Punjab,Attock,104560
+6/30/2019,Punjab,Bahawalpur,222355
+6/30/2019,Punjab,Bhakkar,113225
+6/30/2019,Punjab,Bhawalnagar,220165
+6/30/2019,Punjab,Chakwal,93306
+6/30/2019,Punjab,Chiniot,54272
+6/30/2019,Punjab,D.G. Khan,83209
+6/30/2019,Punjab,Faisalabad,307731
+6/30/2019,Punjab,Gujranwala,240531
+6/30/2019,Punjab,Gujrat,91318
+6/30/2019,Punjab,Hafizabad,69037
+6/30/2019,Punjab,Jhang,137337
+6/30/2019,Punjab,Jhelum,85987
+6/30/2019,Punjab,Kasur,154073
+6/30/2019,Punjab,Khanewal,109170
+6/30/2019,Punjab,Khushab,81055
+6/30/2019,Punjab,Lahore,311613
+6/30/2019,Punjab,Leyyah,166883
+6/30/2019,Punjab,Lodhran,119762
+6/30/2019,Punjab,Mandi Bahauddin,77975
+6/30/2019,Punjab,Mianwali,67835
+6/30/2019,Punjab,Multan,199009
+6/30/2019,Punjab,Muzaffargarh,182640
+6/30/2019,Punjab,Nankana Sahib,39538
+6/30/2019,Punjab,Narowal,100285
+6/30/2019,Punjab,Okara,154604
+6/30/2019,Punjab,Pakpattan,77257
+6/30/2019,Punjab,Rahimyar Khan,269111
+6/30/2019,Punjab,Rajanpur,110137
+6/30/2019,Punjab,Rawalpindi,162259
+6/30/2019,Punjab,Sahiwal,128108
+6/30/2019,Punjab,Sargodha,204449
+6/30/2019,Punjab,Sheikhupura,153269
+6/30/2019,Punjab,Sialkot,176730
+6/30/2019,Punjab,Toba Tek Singh,117821
+6/30/2019,Punjab,Vihari,135555
+6/30/2019,Punjab,Total,5165544
+6/30/2019,Sindh,Badin,57344
+6/30/2019,Sindh,Dadu,71123
+6/30/2019,Sindh,Ghotki,49462
+6/30/2019,Sindh,Hyderabad,86509
+6/30/2019,Sindh,Jacobabad,11277
+6/30/2019,Sindh,Jamshoro,32248
+6/30/2019,Sindh,Karachi,399689
+6/30/2019,Sindh,Kashmore,18113
+6/30/2019,Sindh,Khairpur,72588
+6/30/2019,Sindh,Larkana,64714
+6/30/2019,Sindh,Matyari,46227
+6/30/2019,Sindh,Mirpur Khas,78262
+6/30/2019,Sindh,Naushahro Feroze,68832
+6/30/2019,Sindh,Nawabshah,40839
+6/30/2019,Sindh,Sanghar,98048
+6/30/2019,Sindh,Sehwan Sharif,0
+6/30/2019,Sindh,Shaheed Benazirabad,21052
+6/30/2019,Sindh,Shehdad Kot,39183
+6/30/2019,Sindh,Shikarpur,27525
+6/30/2019,Sindh,Sujawal,6349
+6/30/2019,Sindh,Sukkur,80810
+6/30/2019,Sindh,Tando Allahyar,35769
+6/30/2019,Sindh,Tando Jam,1910
+6/30/2019,Sindh,Tando Muhammad Khan,69139
+6/30/2019,Sindh,Tharparkar,51489
+6/30/2019,Sindh,Thatta,37367
+6/30/2019,Sindh,Umer Kot,72971
+6/30/2019,Sindh,Total,1572545
+6/30/2019,AJK,Bagh,13189
+6/30/2019,AJK,Bhimber,8126
+6/30/2019,AJK,Kotli,21359
+6/30/2019,AJK,Mirpur,8534
+6/30/2019,AJK,Muzaffarabad,28530
+6/30/2019,AJK,Neelum,1457
+6/30/2019,AJK,Poonch,15664
+6/30/2019,AJK,Sudhnati,7236
+6/30/2019,AJK,Total,104095
+6/30/2019,GB,Astore,2080
+6/30/2019,GB,Diamer,689
+6/30/2019,GB,Ghanche,3159
+6/30/2019,GB,Ghizer,13975
+6/30/2019,GB,Gilgit,26030
+6/30/2019,GB,Skardu,7176
+6/30/2019,GB,Total,53109
+6/30/2019,FATA,Bajaur Agency,8576
+6/30/2019,FATA,Khyber Agency,7114
+6/30/2019,FATA,Kurram Agency,3909
+6/30/2019,FATA,Mohmand Agency,2511
+6/30/2019,FATA,North Waziristan Agency,51
+6/30/2019,FATA,Orakzai Agency,2078
+6/30/2019,FATA,South Waziristan Agency,0
+6/30/2019,FATA,Total,24239
+6/30/2019,ICT,ICT,27214
+6/30/2019,ICT,Total,27214
