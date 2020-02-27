@@ -47,23 +47,51 @@
             </select>
         </div>
         
+        <!-- Beginning of slider element for stacked area charts: -->
+        <div class="areaSlider">
+          <div class="col-md-8 ">
+            <div id="slider"></div>
+            <label
+              ><span id="dateLabel1"></span><span id="dateLabel2"></span
+            ></label>
+          </div>
+          <div class="col-md-1">
+            <div><button id="reset">Reset</button></div>          
+          </div>
+          <div class="col-md-1">
+            <div><button id='saveButton'>Save viz</button></div>          
+          </div>
+        </div>
+        <!-- End of slider element for stacked area charts -->
+
+        <!-- Beginning of slider element for maps: -->      
+       <div class="mapSlider">
         <div class="col-md-8">
-          <div id="slider"></div>
-          <label
-            ><span id="dateLabel1"></span><span id="dateLabel2"></span
-          ></label>
+          <div id="sliderMap"></div>
+          <label><span id="dateLabelMap"></span></label>
         </div>
         <div class="col-md-1">
-          <div><button id="reset">Reset</button></div>          
+          <div><button id="resetMap">Reset</button></div>          
         </div>
-        <div class="col-md-1">
-          <div><button id='saveButton'>Save viz</button></div>
-          
-        </div>
-      </div>
+       </div>   
+      <!-- End of slider element for maps --> 
+      
+    </div>
+
+
+ 
+    
 
       <br>
-      <h1>This is a test.</h1>
+      <div class="alert alert-danger alert-dismissible show" role="alert">
+        <strong>Fair Warning:</strong>
+        <p>I used as much real data as possible to create this website. However, 
+          my primary goal is to learn (and showcase) d3.js skills. Once all data has been added/cleaned up/updated, this warning will be removed. </p>       
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      
       
       <div class="row">
           

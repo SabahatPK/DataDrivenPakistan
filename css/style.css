@@ -105,6 +105,14 @@ body {
   fill: blueviolet;
 }
 
+.areaSlider {
+  visibility: visible;
+}
+
+.mapSlider {
+  visibility: hidden;
+}
+
 #selections {
   position: sticky;
   top: 0;

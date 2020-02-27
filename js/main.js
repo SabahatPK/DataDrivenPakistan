@@ -1,7 +1,3 @@
-//start here : practice map-making!! Watch Kurran videos and others.
-
-//Adding some random text. Delete after deploying to Github.
-
 let promises = [
   d3.csv("data/AgentAccountData.csv"),
   d3.csv("data/GenderByProvince.csv"),
@@ -14,15 +10,16 @@ let promises = [
 let parseTime = d3.timeParse("%Y");
 let formatTime = d3.timeFormat("%B %d, %Y");
 
-let sliderBegDate = new Date("1/1/2012");
+//start here: seperate dates b/w area charts vs map charts
+//How to re-create issue: change to District, move slider, change to Province.
+//URGENT: change date back to 1/1/2012 and fix for both sliders before committing.
+let sliderBegDate = new Date("1/1/2011");
 let sliderEndDate = new Date("12/31/2018");
 
 $("#dateLabel1").text("From " + formatTime(new Date("1/1/2012")));
 $("#dateLabel2").text(" to " + formatTime(new Date("12/31/2018")));
 
 // Add jQuery UI slider
-//START Here; debugging slider;
-// https://stackoverflow.com/questions/41104415/js-dates-and-jquery-ui-slider-being-strange/41105624
 $("#slider").slider({
   range: true,
   min: new Date("1/1/2012").getTime(),
@@ -40,7 +37,6 @@ $("#slider").slider({
 });
 
 //Button to reset slider back to default dates
-//outs - slider Reset button sets end date to Nov 23 2018 instead of Dec 31 2018.
 $("#reset").click(function() {
   $("#slider").slider("values", [
     new Date("1/1/2012").getTime(),
@@ -57,6 +53,40 @@ $("#reset").click(function() {
 
   updateCharts();
 });
+
+console.log(sliderBegDate);
+
+//-----------------BEG OF SLIDER for maps:-------------------------
+//OUTS - get rid of hardcoded value
+let sliderBegDateMap = 2011;
+
+$("#sliderMap").slider({
+  range: false,
+  min: 2011,
+  max: 2019,
+  step: 1,
+  value: 2011,
+  slide: function(event, ui) {
+    sliderBegDateMap = ui.value;
+    console.log(sliderBegDateMap);
+    $("#dateLabelMap").text(ui.value);
+    updateCharts();
+  }
+});
+
+//Button to reset slider back to default dates
+$("#resetMap").click(function() {
+  $("#sliderMap").slider("value", 2011);
+
+  sliderBegDateMap = $("#sliderMap").slider("value");
+  console.log(sliderBegDateMap);
+
+  $("#dateLabelMap").text(sliderBegDateMap);
+
+  updateCharts();
+});
+
+//-----------------END OF SLIDER for maps-------------------------
 
 //outs - where does it make sense to add in regional comparisons, income gp comparisons
 
@@ -112,6 +142,7 @@ Promise.all(promises).then(function(allData) {
         d[property] = parseFloat(d[property].replace(/,/g, ""));
       } else if (d.hasOwnProperty(property) && property == "Date") {
         d[property] = new Date(d[property]);
+        d[property] = d[property].getFullYear();
       }
     }
   });
@@ -185,6 +216,24 @@ Promise.all(promises).then(function(allData) {
 
   //Choose graphs to visualize:
   $("#indicatorType").change(function() {
+    //Update the slider:
+    console.log($("#indicatorType").val());
+    if (
+      $("#indicatorType").val() === "MFmapProvince" ||
+      $("#indicatorType").val() === "MFmapDistrict"
+    ) {
+      $(".mapSlider")[0].style.visibility = "visible";
+      $(".areaSlider")[0].style.visibility = "hidden";
+      console.log("Hiding area slider");
+    } else if (
+      $("#indicatorType").val() === "AccAndAgent" ||
+      $("#indicatorType").val() === "gender"
+    ) {
+      $(".mapSlider")[0].style.visibility = "hidden";
+      $(".areaSlider")[0].style.visibility = "visible";
+      console.log("Hiding map slider");
+    }
+
     //Remove any old graphs
     d3.selectAll("#chart-area1 > *").remove();
     d3.selectAll("#chart-area2 > *").remove();
@@ -254,7 +303,8 @@ Promise.all(promises).then(function(allData) {
         districts,
         provinces,
         pkDistMF,
-        largeDimensions
+        largeDimensions,
+        sliderBegDateMap
       );
     }
   });
@@ -274,7 +324,7 @@ function updateCharts() {
     stackAreaChart1.wrangleData(sliderBegDate, sliderEndDate);
     stackAreaChart2.wrangleData(sliderBegDate, sliderEndDate);
   } else if ($("#indicatorType").val() === "MFmapProvince" || "MFmapDistrict") {
-    mapOfPak.wrangleData(sliderBegDate, sliderEndDate);
+    mapOfPak.wrangleData(sliderBegDateMap);
   }
 }
 
