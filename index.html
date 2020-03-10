@@ -15,8 +15,6 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
 
-  <!-- outs: need to learn how to work with branches like Git was MEANT to be used!! -->
-  <!-- outs: attribute noun project (for PK flag icon) and https://www.glyphicons.com/ -->
 
   <body>
     <nav class="navbar navbar-inverse">
@@ -27,9 +25,10 @@
                   <img id="logo" src="img/noun_Pakistan_777656_v1.png" />Data Driven Pakistan</a
                 >
         </div>
-    <!-- outs: why do these icons dissapear when I hover over them? -->
+    
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#Footnote1"><span class="glyphicon glyphicon-info-sign"></span> About This Dashboard</a></li>
+          <li><a href="https://sabahatpk.github.io/" target="_blank"><span class="glyphicon glyphicon-folder-open"></span> Portfolio Page</a></li>
           <li><a href="#Footnote2"><span class="glyphicon glyphicon-user"></span> About Me</a></li>
         </ul>
       </div>
@@ -58,9 +57,9 @@
           <div class="col-md-1">
             <div><button id="reset">Reset</button></div>          
           </div>
-          <div class="col-md-1">
+          <!-- <div class="col-md-1">
             <div><button id='saveButton'>Save viz</button></div>          
-          </div>
+          </div> -->
         </div>
         <!-- End of slider element for stacked area charts -->
 
@@ -91,6 +90,8 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
+
+
       
       
       <div class="row">
@@ -122,13 +123,20 @@
             About This Dashboard:
           </h4>
           <p>
-            All data sourced from State Bank Of Pakistan's
+           
+          </p>
+          <p>
+            This dashboard was built using <strong><a href="https://d3js.org/" target="_blank">d3.js</a></strong>, a Javascript data visualization library. All data was scraped off website using <strong><a href="https://tabula.technology/" target="_blank">tabula</a></strong> and scrubbed with good ol' Excel. 
+            The repo can be found <a href="https://github.com/SabahatPK/DataDrivenPakistan" target="_blank">here</a>.
+            <br>
+            <strong>Source: </strong>State Bank Of Pakistan's 
             <a
               href="http://www.sbp.org.pk/publications/acd/branchless.htm"
               target="_blank"
-              >quarterly branchless banking newsletters</a
-            >.
+              > quarterly branchless banking newsletters</a
+            >. 
           </p>
+          
           <h4 id="Footnote2">About Me</h4>
           <p>
             I am a
@@ -137,6 +145,7 @@
             >who often has to trawl through obscure government databases to
             develop country-level analyses. One web site encapsulating all
             financial inclusion data would have been useful. I decided to create one for Pakistan.</p>
+            
         </div>
         <div class="col-md-8">
           <button onclick="topFunction()" id="myBtn" title="Go to top">
@@ -154,8 +163,6 @@
     <script src="//d3js.org/topojson.v2.min.js"></script>
     <script src="https://cdn.rawgit.com/eligrey/canvas-toBlob.js/f1a01896135ab378aa5c0118eadd81da55e698d8/canvas-toBlob.js"></script>
     <script src="https://cdn.rawgit.com/eligrey/FileSaver.js/e9d941381475b5df8b7d7691013401e171014e89/FileSaver.min.js"></script>
-    <!-- OUTS: delete this if not needed -->
-    <!-- <script src="node_modules/datamaps/dist/datamaps.world.min.js"></script> -->
     <!-- Custom JS -->
     <script src="js/mainStackArea.js"></script>
     <script src="js/mainMap.js"></script>

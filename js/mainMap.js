@@ -17,9 +17,6 @@ MapChart = function(
   this.initVis();
 };
 
-//OUTS - click on province to isolate that data in area charts
-//OUTS - allow map to size down with containers.
-
 MapChart.prototype.initVis = function() {
   let vis = this;
 
@@ -46,6 +43,19 @@ MapChart.prototype.initVis = function() {
     .attr("width", vis.dimensions.width)
     .attr("height", vis.dimensions.height);
 
+  //Define the pattern for null areas of map:
+  vis.svg
+    .append("defs")
+    .append("pattern")
+    .attr("id", "texture0")
+    .attr("patternUnits", "userSpaceOnUse")
+    .attr("width", 6)
+    .attr("height", 6)
+    .append("path")
+    .attr("d", "M 0 0 L 0 10")
+    .attr("stroke", "#3071B9")
+    .attr("stroke-width", 1);
+
   if ($("#indicatorType").val() === "MFmapProvince") {
     vis.title = "Microfinance Borrowers Per Province";
   } else {
@@ -61,14 +71,14 @@ MapChart.prototype.initVis = function() {
     .style("font-weight", "bold")
     .text(vis.title);
 
-  console.log(vis.sliderBegDateMap);
-
   //Format district data structure into something more palatable to d3:
+  //--------------DELETE THIS BY MARCH 30 2020----------
   // vis.MFData.filter(
   //   each => each["Date"] === vis.sliderBegDate.getFullYear()
   // ).forEach(d => {
   //   vis.borrByDistrict[d["District"]] = +d["Active Borrowers"];
   // });
+  //--------------DELETE THIS BY MARCH 30 2020----------
 
   vis.MFData.filter(each => each["Date"] === vis.sliderBegDateMap).forEach(
     d => {
@@ -95,6 +105,9 @@ MapChart.prototype.initVis = function() {
     .scaleSequential(d3.interpolateBlues)
     .domain(vis.extentBorrower);
 
+  // console.log(vis.pakDistrictData.features.map(each => each.properties.NAME_3));
+  // console.log(vis.borrByDistrict);
+
   if ($("#indicatorType").val() === "MFmapProvince") {
     vis.svg
       .append("g")
@@ -109,7 +122,6 @@ MapChart.prototype.initVis = function() {
           ? vis.color(vis.borrByProvince[d.properties.NAME_1])
           : vis.color(0)
       );
-    //outs - double check if this is working properly, i.e. triggering
     // .on("mouseover", d => {
     //   console.log(d);
     // })
@@ -123,11 +135,18 @@ MapChart.prototype.initVis = function() {
       .enter()
       .append("path")
       .attr("d", vis.myPathGenerator)
-      .style("fill", d =>
-        vis.borrByDistrict[d.properties.NAME_3]
-          ? vis.color(vis.borrByDistrict[d.properties.NAME_3])
-          : vis.color(0)
-      )
+      // .style("fill", d =>
+      //   vis.borrByDistrict[d.properties.NAME_3]
+      //     ? vis.color(vis.borrByDistrict[d.properties.NAME_3])
+      //     : "url(#texture0)"
+      // )
+      .style("fill", function(d) {
+        if (vis.borrByDistrict[d.properties.NAME_3]) {
+          return vis.color(vis.borrByDistrict[d.properties.NAME_3]);
+        } else {
+          return "url(#texture0)";
+        }
+      })
       .on("mouseover", d => {
         vis.div
           .html(
@@ -139,6 +158,7 @@ MapChart.prototype.initVis = function() {
       })
       .on("mouseout", d => vis.div.style("opacity", 0));
   }
+  vis.addLegend();
 };
 
 MapChart.prototype.wrangleData = function(begDate) {
@@ -168,20 +188,105 @@ MapChart.prototype.updateVis = function() {
           ? vis.color(vis.borrByProvince[d.properties.NAME_1])
           : vis.color(0)
       )
-      //outs - double check if this is working properly, i.e. triggering
       .on("mouseover", d => {
         console.log(d);
       })
       .on("mouseout", d => console.log("done"));
   } else {
     vis.svg
+      .append("g")
       .selectAll("path")
+      .attr("class", "district")
+      .data(vis.pakDistrictData.features)
+      .enter()
+      .append("path")
+      .attr("d", vis.myPathGenerator)
       .style("fill", d =>
         vis.borrByDistrict[d.properties.NAME_3]
           ? vis.color(vis.borrByDistrict[d.properties.NAME_3])
-          : vis.color(0)
-      );
+          : "url(#texture0)"
+      )
+      .on("mouseover", d => {
+        vis.div
+          .html(
+            d.properties.NAME_3 + "," + vis.borrByDistrict[d.properties.NAME_3]
+          )
+          .style("left", d3.event.pageX + "px")
+          .style("top", d3.event.pageY - 28 + "px")
+          .style("opacity", 0.9);
+      })
+      .on("mouseout", d => vis.div.style("opacity", 0));
+
+    // .attr("fill", function(d) {
+    //   if (vis.borrByDistrict[d.properties.NAME_3]) {
+    //     return vis.color(vis.borrByDistrict[d.properties.NAME_3]);
+    //   } else {
+    //     return "url(#texture0)";
+    //   }
+    // });
   }
+};
+
+MapChart.prototype.addLegend = function() {
+  let vis = this;
+
+  let formatComma = d3.format(",");
+
+  let legendData = vis.color.ticks(6).slice(0);
+  let legendDataWithUndef = ["Data Missing or No Borrowers"];
+
+  vis.legendWithUndef = vis.svg
+    .selectAll(".legendWithUndef")
+    .data(legendDataWithUndef)
+    .enter()
+    .append("g")
+    .attr("class", "legend")
+    .attr("transform", function(d, i) {
+      return "translate(" + 20 + "," + (20 + i * 20) + ")";
+    });
+
+  vis.legendWithUndef
+    .append("rect")
+    .attr("width", 20)
+    .attr("height", 20)
+    .style("fill", "url(#texture0)");
+
+  vis.legendWithUndef
+    .append("text")
+    .attr("x", 26)
+    .attr("y", 10)
+    .attr("dy", ".35em")
+    .text(legendDataWithUndef[0]);
+
+  vis.legend = vis.svg
+    .selectAll(".legend")
+    .data(legendData)
+    .enter()
+    .append("g")
+    .attr("class", "legend")
+    .attr("transform", function(d, i) {
+      return "translate(" + 20 + "," + (20 + i * 20) + ")";
+    });
+
+  vis.legend
+    .append("rect")
+    .attr("width", 20)
+    .attr("height", 20)
+    .style("fill", vis.color);
+
+  vis.legend
+    .append("text")
+    .attr("x", 26)
+    .attr("y", 10)
+    .attr("dy", ".35em")
+    .text(formatComma);
+
+  vis.svg
+    .append("text")
+    .attr("class", "label")
+    .attr("x", vis.dimensions.width + 20)
+    .attr("y", 10)
+    .attr("dy", ".35em");
 };
 
 //   //HandyTip - refer to these for creating choropleth map:

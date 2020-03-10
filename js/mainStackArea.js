@@ -35,7 +35,6 @@ StackedArea.prototype.initVis = function() {
   vis.svg = d3
     .select(vis.parentElement)
     .append("svg")
-    //outs - cards should not ROLL in
     .attr("class", "card")
     .attr(
       "width",
@@ -57,10 +56,6 @@ StackedArea.prototype.initVis = function() {
   } else {
     vis.title = vis.allData[0]["Province"];
   }
-
-  //outs - graphs need to always show which year they are depicting;
-  //When dates are all within 1 year, no way of knowing what that year is just by looking at
-  //the x-axis. Need to point out somewhere on x-axis;
 
   vis.svg
     .append("text")
@@ -146,7 +141,6 @@ StackedArea.prototype.wrangleData = function(begDate, endDate) {
 StackedArea.prototype.updateVis = function() {
   let vis = this;
 
-  //outs - how to make graphs dissapear and place this text in it's place?
   // if (vis.filteredData.length === 0) {
   //   console.log("There is no data available for this time period.");
   // }
