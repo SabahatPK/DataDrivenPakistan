@@ -40,8 +40,10 @@ MapChart.prototype.initVis = function() {
     .select(vis.parentElement)
     .append("svg")
     .attr("class", "card")
-    .attr("width", vis.dimensions.width)
-    .attr("height", vis.dimensions.height);
+    //START HERE:
+    .attr("viewBox", `0 0 800 800`);
+  // .attr("width", vis.dimensions.width)
+  // .attr("height", vis.dimensions.height);
 
   //Define the pattern for null areas of map:
   vis.svg

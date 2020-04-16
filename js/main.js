@@ -1,3 +1,5 @@
+//OUTS: Allow contributors: https://smartbear.com/blog/develop/how-to-turn-your-pile-of-code-into-an-open-source/
+
 let promises = [
   d3.csv("data/AgentAccountData.csv"),
   d3.csv("data/GenderByProvince.csv"),
